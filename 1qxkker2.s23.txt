@@ -1,0 +1,55 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   ind.html
+#	new file:   orange.html
+#
+# Untracked files:
+#	../../../.htaccess
+#	../../../license.txt
+#	../../../readme.html
+#	../../../wp-activate.php
+#	../../../wp-admin/
+#	../../../wp-blog-header.php
+#	../../../wp-comments-post.php
+#	../../../wp-config-sample.php
+#	../../../wp-config.php
+#	../../index.php
+#	../../plugins/
+#	../index.php
+#	../twentyfifteen/
+#	404.php
+#	README.txt
+#	archive.php
+#	assets/
+#	comments.php
+#	footer.php
+#	front-page.php
+#	functions.php
+#	header.php
+#	inc/
+#	index.php
+#	page.php
+#	rtl.css
+#	screenshot.png
+#	search.php
+#	searchform.php
+#	sidebar.php
+#	single.php
+#	style.css
+#	template-parts/
+#	../twentysixteen/
+#	../../../wp-cron.php
+#	../../../wp-includes/
+#	../../../wp-links-opml.php
+#	../../../wp-load.php
+#	../../../wp-login.php
+#	../../../wp-mail.php
+#	../../../wp-settings.php
+#	../../../wp-signup.php
+#	../../../wp-trackback.php
+#	../../../xmlrpc.php
+#
+
